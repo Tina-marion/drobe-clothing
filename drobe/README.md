@@ -1,4 +1,4 @@
-# SHOPPIE
+# drobe clothing store
 
 ## Functional Specification
 
